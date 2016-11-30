@@ -7,7 +7,16 @@ I knew that, written properly, it would require javascript to count characters. 
 
 So I did the only thing I could... I didn't write the first mobile phone web-app I thought of.
 
-Anyway, 7 years later - after learning HTML5 from 2010, CSS3 from 2011, PHP scripting from 2012, Javascript from 2013, Regex from 2014, SVG from 2015 - I think I can write the damn thing now.
+Anyway, 7 years later - after learning:
+
+ - HTML5 from 2010
+ - CSS3 from 2011
+ - PHP scripting from 2012
+ - Javascript from 2013
+ - Regex from 2014
+ - SVG from 2015
+ 
+I think I can write the damn thing now.
 
 I still have no idea what to call it.
 
