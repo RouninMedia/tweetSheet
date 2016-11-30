@@ -11,8 +11,8 @@ Anyway, 7 years later - after learning:
 
  - HTML5 from 2010
  - CSS3 from 2011
- - PHP scripting from 2012
- - Javascript from 2013
+ - PHP server-side scripting from 2012
+ - Javascript front-end scripting from 2013
  - Regex from 2014
  - SVG from 2015
  
@@ -24,4 +24,4 @@ That said, I am familar with the convention of calling twitter-related apps some
 
 So I might as well call it...
 
-TwillNotTweet.
+**TwillNotTweet**.
