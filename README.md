@@ -14,7 +14,7 @@ Anyway, 7 years later - after learning:
  - PHP server-side scripting from 2012
  - Javascript front-end scripting from 2013
  - Regex from 2014
- - SVG from 2015 (not really relevant here...)
+ - SVG from 2015 *(not really relevant here)*
  - Javascript Objects, JSON, Ajax and HTML5 localStorage from 2016
  
 I think I can write the damn thing now.
