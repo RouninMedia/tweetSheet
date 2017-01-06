@@ -7,7 +7,7 @@ I knew that, written properly, it would require javascript to count characters. 
 
 So I did the only thing I could... I didn't write the first mobile phone web-app I thought of.
 
-Anyway, 7 years later - after learning:
+Anyway, 8 years later - after learning:
 
  - HTML5 from 2010
  - CSS3 from 2011
