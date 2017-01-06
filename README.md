@@ -22,6 +22,6 @@ I still have no idea what to call it.
 
 That said, I am familar with the convention of calling twitter-related apps something beginning with "tw...".
 
-So I might as well call it...
+So (for now) I might as well call it...
 
 **TwillNotTweet**
