@@ -1,4 +1,4 @@
-# twillnottweet
+# tweetsheet
 For tweets that won't.
 
 Way... way back in spring 2009, when my technical proficiency was limited to standards-compliant XHTML1 and CSS2, I had my very first idea for a web-based app which would work on a mobile phone browser.
@@ -25,4 +25,4 @@ That said, I am familar with the (2009) convention of calling twitter-related ap
 
 So (for now) I might as well call it...
 
-**TwillNotTweet**
+**TweetSheet**
