@@ -12,10 +12,11 @@ Anyway, 8 years later - after learning:
  - HTML5 from 2010
  - CSS3 from 2011
  - PHP server-side scripting from 2012
- - Javascript front-end scripting from 2013
+ - Javascript (ES5) front-end scripting from 2013
  - Regex from 2014
  - SVG from 2015 *(not really relevant here)*
  - Javascript Objects, JSON, Ajax and HTML5 localStorage from 2016
+ - ECMAScript 2015+ from 2017
  
 I think I can write the damn thing now.
 
